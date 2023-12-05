@@ -127,6 +127,9 @@ python alpha_blending.py
 <img src="summary.png" width="100%" height="100%" title="alpha">
 
 
+## License
+All code and documentation in this project are available under the [MIT License](https://opensource.org/licenses/MIT).
+See the [LICENSE file](./LICENSE) for details.
 
 
 
