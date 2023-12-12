@@ -13,7 +13,7 @@ The project folder is organized as follows:
 - **color_histogram.py**
 - **equalization_clahe.py**
 - **gray_histogram.py**
-- **gray_normalize_histograme.py**
+- **gray_normalize_histogram.py**
 - **increase_saturation.py**
 - **set_gray_histogram_range.py**
 - **set_rgb_histogram_range.py**
